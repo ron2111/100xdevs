@@ -2,7 +2,7 @@
 id: iv8qusmhglkygjpz1pfkc1e
 title: JS-Foundation
 desc: ""
-updated: 1703155778191
+updated: 1703246618867
 created: 1702809178667
 ---
 
@@ -23,6 +23,15 @@ Browsers can only understand HTML/CSS/JS(not technically true).
 - Single Threaded nature of JS - Always restricted to a single core. Considered to be bad fro scalable systems but there is a way around(subroutines) too.
 
 ## Javascript
+
+- Based on a scripting language specification: ECMAScript It serves as the guideline or the 'rules' for scripting language design.
+
+- JS includes additional features that are not part of the ECMAScript Specification, like DOM manipulation, which is crucial for web development but is not defined by ECMAScript.
+
+#### Browser Engines:
+
+- V8: Used by google chrome/chromium - C
+- SpiderMonkey: Used by Firefox - C + Rust
 
 #### Variables
 
